@@ -1,7 +1,7 @@
 ### [中文版](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/README.md) | [English](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/readme_english.md)
 ![](./image/logo.png)
 ## flutter_notebook有什么
-flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识，本项目将会不定期更新。
+flutter_note_book有许多flutter相关功能demo的集合，它能够帮助您快速学习一些零碎的知识，本项目将会不定期更新。
 
 如果您觉得有用的话可以Watch该项目，之后更新会自动通知您。
 ## 收集更多优秀样例
@@ -41,6 +41,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [去掉点击事件的水波纹效果](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/without_splash_color)
 - [在当前页面上覆盖新的组件overlay](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/overlay)
 - [在不同页面传递事件EventBus](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/event_bus_demo)
+- [自定义 Navigator](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/navigator_example)
 
 
 #### 动画
@@ -73,6 +74,7 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 - [Provider](https://github.com/OpenFlutter/Flutter-Notebook/blob/master/mecury_project/example/provider_example)
 
 ### 其他
+- [flutter-widget-livebook 实时查看各种 widget](https://flutter-widget-livebook.blankapp.org/basics/introduction/)
 - [flutter 菜鸟 APP，包含常用 flutter 组件的中文文档与 demo 演示](https://github.com/alibaba/flutter-common-widgets-app)
 - [flutter widget of the week 每周介绍一个widget，轻松学习flutter](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/flutter_widget_of_the_week)
 - [GDD2018最新Flutter preview2 widget体验](https://github.com/Vadaski/Flutter-Notebook/tree/master/mecury_project/example/release_preview2)
@@ -91,7 +93,6 @@ flutetr_note_book有许多flutter相关功能demo的集合，它能够帮助您�
 
 所有demo都最简化，尽量保证只与当前功能有关。每个demo文件代码在100行左右，十分适合新手阅读。
 #### 更多请进入mecury_project/example中寻找。
-## 我的掘金主页
-https://juejin.im/user/5b5d45f4e51d453526175c06/posts
-
-欢迎关注
+## [我的掘金主页](https://juejin.im/user/5b5d45f4e51d453526175c06/posts)
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/OpenFlutter/Flutter-Notebook.svg)](https://starchart.cc/OpenFlutter/Flutter-Notebook)
